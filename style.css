@@ -1,0 +1,277 @@
+*{
+    margin:0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 0;
+}
+
+.top1{
+    background:black;
+    height: 35px;
+    color:white;
+    text-align: center;
+    border-bottom: solid gray 1px;
+    display: flex;
+    justify-content: center;
+   
+    
+}
+.top1 i p{
+    position: relative;
+    top: 5px;
+}
+.arrow i{
+    padding-top: 7px;
+    
+    
+
+}
+.top2{
+    background-color: black;
+    height: 89px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    
+    
+}
+.logopaper1{
+    width:150px;
+    position: relative;
+    top:30px;
+    left:150px;
+    text-align: center;
+    height: 25px;
+    
+}
+.listtoph{
+    display:flex;
+    color:azure;
+    list-style: none;
+    margin-left: 290px;
+    justify-content: space-evenly;
+    width:350px;
+    margin-top: 5px;
+    
+
+
+}
+.main{
+    height: 1000px;
+    background-color: white;
+}
+.image1 img{
+    height:347px;
+    width:347px;
+    position:relative;
+    top:30px;
+    left:25px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+/* .image2 img{
+    height:347px;
+    width:347px;
+    position:relative;
+    top:40px;
+    left:75px;
+    
+}
+.book5 img{
+    height:347px;
+    width:347;
+    position:relative;
+    left:450px;
+    bottom:310px;
+    margin-left: 6px;
+}
+.book6 img{
+    height: 347px;
+    width:347px;
+    position:relative;
+    left:800px;
+    bottom:661px;
+    margin-left: 35px;
+    
+
+} */
+.image2 img{
+    height:347px;
+    width:347px;
+    position:relative;
+    top:35px;
+    left:25px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.image3 img{
+    height:347px;
+    width:347px;
+    position:relative;
+    top:42px;
+    left:25px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.main2{
+    background:white;
+    height: 500px;
+    
+    
+}
+.image4 img{
+    height: 12cm;
+    position:relative;
+    left:50px;
+    top:100px;
+    top:50px;
+}
+.main2-text{
+    position: relative;
+    margin-left: 450px;
+    bottom:300px;
+    
+
+}
+.main2-text p{
+    color:gray;
+    position: relative;
+    top:30px;
+}
+.main2-text button{
+    position:relative;
+    top:50px;
+    cursor: pointer;
+    font-size:18px;
+    background-color: black;
+    color: white;
+    height: 50px;
+    width:130px;
+    border: none;
+
+    
+}
+.main2-text button:hover{
+    transform: scale(1.1);
+}
+.last-black {
+    background-color: #121212;
+    height: 300px;
+    
+    
+}
+.text-black{
+    color:white;
+    position: relative;
+    text-align: center;
+    top:50px;
+    font-size: 18px;
+
+}
+.text-black h5{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    cursor: pointer;
+    text-decoration: underline;
+    color:#ffffffb3;
+    margin-top: 25px;
+}
+.text-black h5:hover{
+    color:white;
+}
+.fa-brands {
+    position: relative;
+    top:35px;
+    cursor: pointer;
+    
+
+
+}
+.fa-brands:hover{
+    transform: scale(1.1);
+}
+.fafa-solid {
+    position: relative;
+    display: flex;
+}
+.under{
+    background-color: #121212;
+    height: 130px;
+    border-bottom:solid gray 1px;
+}
+.under{
+    color:gray;
+    position: relative;
+    
+    
+}
+
+.last-list{
+    position: relative;
+    top:81px;
+    font-size: 12px;
+    cursor:pointer ;
+    margin-left: 34px;
+    display:flex;
+    display: inline;
+    
+
+    
+}
+.black2 p{
+    position: relative;
+    margin-left: 60px;
+    top:81px;
+    font-size: 14px;
+    
+}
+.hrs{
+    border-bottom: solid gray 0.11px;
+    
+    
+}
+.home{
+    text-decoration: underline;
+}
+.about-us:hover{
+    text-decoration: underline;
+}
+ .underline:hover{
+    text-decoration: underline;
+    color:white;
+
+}
+.copy{
+    display: flex;
+    position: relative;
+    top:90px;
+    color:rgb(220, 207, 207);
+    
+
+    margin-left: 23px;
+    font-size: 11px;
+    
+    
+}
+.copy li{
+    padding-left: 15px;
+    text-align: center;
+    list-style-type: none;
+}
+.yr li:hover{
+    text-decoration: none;
+
+}
+.user{
+    position: relative;
+    left: 500px;
+}
+.bag{
+    position: relative;
+    left:500px
+}
+
+
+
+
+
+
+    
